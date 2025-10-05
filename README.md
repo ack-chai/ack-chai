@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ack-chai
 - 🌱 I’m currently learning full stack development (MERN and MEAN)
-- 😄 Pronouns: she/her
